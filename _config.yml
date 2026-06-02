@@ -23,7 +23,7 @@ repository               : "MiquelGuiot/MiquelGuiot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "FotoPerfil.jpg"
+  avatar           : "FotoPerfilRodona.png"
   name             : "Miquel Guiot Cusidó"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Cryptography"
