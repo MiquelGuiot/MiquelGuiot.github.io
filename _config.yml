@@ -23,14 +23,14 @@ repository               : "MiquelGuiot/MiquelGuiot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "FotoPerfil.png"
+  avatar           : "images/FotoPerfil.png"
   name             : "Miquel Guiot Cusidó"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Cryptography"
   location         : "Barcelona, Catalunya"
   employer         : "Universitat Rovira i Virgili"
   uri              : # URL
-  email            : "miquel(dot)guiot(at)urv.cat" 
+  email            : "miquel.guiot@urv.cat" 
 
   # Academic websites
   academia         : # URL
@@ -61,12 +61,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # 170136512-miquel
+  goodreads        : "170136512-miquel"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # miquel-guiot-cusidó-a8416b227
+  linkedin         : "miquel-guiot-cusidó-a8416b227"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
