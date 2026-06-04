@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<a id="info"></a>
 
 Bones! I am Miquel Guiot Cusidó, a PhD student in Cryptography at the [Computer Engineering and Mathematics Department](https://www.deim.urv.cat/en/) of [Universitat Rovira i Virgili](https://www.urv.cat/en/), Tarragona (Catalonia), advised by [Oriol Farràs](https://sites.google.com/site/oriolfv/).
 
