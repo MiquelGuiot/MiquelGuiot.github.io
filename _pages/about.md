@@ -23,7 +23,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
 
 * **Traceable Secret Sharing Schemes for General Access Structures**  
   Oriol Farràs, Miquel Guiot  
-  *Eurocrypt 2026* — [Paper](https://eprint.iacr.org/2025/1120)
+  *Eurocrypt 2026* — [Paper](https://eprint.iacr.org/2025/1120) • [Slides](https://iacr.org/submit/files/slides/2026/eurocrypt/eurocrypt2026/240/240_slides.pdf)
 
 * **Improving the Selection Rule of Correlation Attacks for Remote Power Analysis**  
   Oriol Farràs, Vincent Grosso, Miquel Guiot, Carlos Andrés Lara Niño  
