@@ -15,6 +15,8 @@ My work focuses on the study of <b>secret sharing schemes</b>, a cryptographic p
 
 Outside of research, I like reading novels and short stories, watching movies, road cycling, and football (especially Barça!), and I enjoy discussing them passionately.
 
+<a id="publications"></a>
+
 ## Publications
 
 * **Revisiting Beimel-Weinreb Weighted Threshold Secret Sharing Schemes**  
