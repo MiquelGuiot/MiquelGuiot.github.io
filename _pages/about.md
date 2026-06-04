@@ -37,9 +37,49 @@ Outside of research, I like reading novels and short stories, watching movies, r
   Pouya Esmaili, Miquel Guiot, Petar Radojković, Xavier Martorell, Eduard Ayguadé, Jesus Labarta, Jason Adlard, Paolo Amato, Marco Sforzin  
   *Transactions on Computers* — [Paper](https://ieeexplore.ieee.org/document/10454132)
 
-
 ## Preprints
 
 * **Information-theoretic Strong Traceable Secret Sharing Schemes**  
   Oriol Farràs, Miquel Guiot  
   *Preprint* — [Paper](https://eprint.iacr.org/2026/435)
+
+## Talks
+
+* **Traceable Secret Sharing Schemes for General Access Structures**
+  * [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/), Roma, May 2026
+  * [UPC](https://www.upc.edu/en?set_language=en), Barcelona, May 2026
+
+* **Reducing the Share Size of Weighted Threshold Secret Sharing Schemes via Chow Parameters Approximation**
+  * [Jornadas Critpografia Aplicada](https://jaspcd.unican.es/), Castro Urdiales, September 2025
+  * CyberSec+ Doctoral Workshop, Lleida, June 2025
+  * Workshop on Secret Sharing Schemes, Tarragona, May 2025
+  * [Jovenes RSME](https://jovenes2025.rsme.es/), Bilbao, January 2025
+  * [TCC 2024](https://tcc.iacr.org/2024/), Milan, December 2024
+  * [UPC](https://www.upc.edu/en?set_language=en), Barcelona, November 2024
+  * [URV](https://www.urv.cat/en/), Tarragona, November 2024
+  
+* **Divulgative Talks**
+  * Tecnologia Blockchain, més enllà de les criptomonedes. High Schools in Catalunya, 2024 — [Slides](Blockchain.pdf) (in Catalan)
+  * Privadesa i Seguretat a Internet. High Schools in Catalunya, 2025 — [Slides](Privadesa.pdf) (in Catalan)
+
+## Teaching
+
+* **BSc in Computer Science (URV, Tarragona)**
+  * Discrete Mathematics II. 2026
+  * Discrete Mathematics II. 2025
+  * Discrete Mathematics II. 2024
+
+* **BSc in Computer Science (UB, Barcelona)**
+  * Operating Systems. 2023
+  * Software Design. 2022
+ 
+## Service
+
+* **Reviewer**
+* 2026: Designs, Codes and Cryptography
+
+* **Subreviewer**
+  * 2026: TCC
+  * 2025: ICDE, ESORICS
+  * 2024: EUROCRYPT, CCS, ACISP
+ 
