@@ -45,6 +45,8 @@ Outside of research, I like reading novels and short stories, watching movies, r
   Oriol Farràs, Miquel Guiot  
   *Preprint* — [Paper](https://eprint.iacr.org/2026/435)
 
+<a id="talks"></a>
+
 ## Talks
 
 * **Traceable Secret Sharing Schemes for General Access Structures**
@@ -64,6 +66,8 @@ Outside of research, I like reading novels and short stories, watching movies, r
   * Tecnologia Blockchain, més enllà de les criptomonedes. High Schools in Catalunya, 2024 — [Slides](Blockchain.pdf) (in Catalan)
   * Privadesa i Seguretat a Internet. High Schools in Catalunya, 2025 — [Slides](Privadesa.pdf) (in Catalan)
 
+<a id="teaching"></a>
+
 ## Teaching
 
 * **BSc in Computer Science (URV, Tarragona)**
@@ -74,6 +78,8 @@ Outside of research, I like reading novels and short stories, watching movies, r
 * **BSc in Computer Science (UB, Barcelona)**
   * Operating Systems. 2023
   * Software Design. 2022
+
+<a id="service"></a>
  
 ## Service
 
