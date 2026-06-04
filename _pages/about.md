@@ -39,6 +39,8 @@ Outside of research, I like reading novels and short stories, watching movies, r
   Pouya Esmaili, <ins>Miquel Guiot</ins>, Petar Radojković, Xavier Martorell, Eduard Ayguadé, Jesus Labarta, Jason Adlard, Paolo Amato, Marco Sforzin  
   *Transactions on Computers* — [Paper](https://ieeexplore.ieee.org/document/10454132)
 
+<a id="preprints"></a>
+
 ## Preprints
 
 * **Information-theoretic Strong Traceable Secret Sharing Schemes**  
