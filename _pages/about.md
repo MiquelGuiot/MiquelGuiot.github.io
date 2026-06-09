@@ -21,7 +21,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
 ## Publications
 
 * **Revisiting Beimel-Weinreb Weighted Threshold Secret Sharing Schemes**  
-  Oriol Farràs, <ins>Miquel Guiot</ins> 
+  Oriol Farràs, <ins>Miquel Guiot</ins>  
   *CSF 2026* — [Paper](https://eprint.iacr.org/2025/168) 
 
 * **Traceable Secret Sharing Schemes for General Access Structures**  
