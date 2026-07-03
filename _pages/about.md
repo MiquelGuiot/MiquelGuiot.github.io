@@ -53,6 +53,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
 ## Talks
 
 * **Traceable Secret Sharing Schemes for General Access Structures**
+  * [AU](https://international.au.dk/), Aarhus, July 2026 
   * [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/), Roma, May 2026
   * [UPC](https://www.upc.edu/en?set_language=en), Barcelona, May 2026
 
