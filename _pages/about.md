@@ -66,7 +66,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
   * [UPC](https://www.upc.edu/en?set_language=en), Barcelona, November 2024
   * [URV](https://www.urv.cat/en/), Tarragona, November 2024
   
-* **Divulgative Talks**
+* **Outreach Talks**
   * Tecnologia Blockchain, més enllà de les criptomonedes. High Schools in Catalunya, 2024 — [Slides](Blockchain.pdf) (in Catalan)
   * Privadesa i Seguretat a Internet. High Schools in Catalunya, 2025 — [Slides](Privadesa.pdf) (in Catalan)
 
