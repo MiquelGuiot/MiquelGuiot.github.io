@@ -48,7 +48,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
 
 ## Preprints
 
-* Cooming soon!
+* Coming soon!
 
 <a id="talks"></a>
 
