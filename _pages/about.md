@@ -20,9 +20,13 @@ Outside of research, I like reading novels and short stories, watching movies, r
 
 ## Publications
 
+* **Information-theoretic Strong Traceable Secret Sharing Schemes**  
+  Oriol Farràs, <ins>Miquel Guiot</ins>  
+  *Asiacrypt 2026* — [Paper](https://eprint.iacr.org/2026/435)
+
 * **Revisiting Beimel-Weinreb Weighted Threshold Secret Sharing Schemes**  
   Oriol Farràs, <ins>Miquel Guiot</ins>  
-  *CSF 2026* — [Paper](https://eprint.iacr.org/2025/168) 
+  *CSF 2026* — [Paper](https://eprint.iacr.org/2025/168) • [Slides](CSF2026.pdf)
 
 * **Traceable Secret Sharing Schemes for General Access Structures**  
   Oriol Farràs, <ins>Miquel Guiot</ins>  
@@ -44,13 +48,14 @@ Outside of research, I like reading novels and short stories, watching movies, r
 
 ## Preprints
 
-* **Information-theoretic Strong Traceable Secret Sharing Schemes**  
-  Oriol Farràs, <ins>Miquel Guiot</ins>  
-  *Preprint* — [Paper](https://eprint.iacr.org/2026/435)
+* Cooming soon!
 
 <a id="talks"></a>
 
 ## Talks
+
+* **Revisiting Beimel-Weinreb Weighted Threshold Secret Sharing Schemes**
+* * [CSF 2026](https://csf2026.ieee-security.org/), Lisboa, July 2026 
 
 * **Traceable Secret Sharing Schemes for General Access Structures**
   * [AU](https://international.au.dk/), Aarhus, July 2026 
