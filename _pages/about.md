@@ -55,7 +55,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
 ## Talks
 
 * **Revisiting Beimel-Weinreb Weighted Threshold Secret Sharing Schemes**
-* * [CSF 2026](https://csf2026.ieee-security.org/), Lisboa, July 2026 
+  * [CSF 2026](https://csf2026.ieee-security.org/), Lisboa, July 2026 
 
 * **Traceable Secret Sharing Schemes for General Access Structures**
   * [AU](https://international.au.dk/), Aarhus, July 2026 
