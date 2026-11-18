@@ -93,7 +93,7 @@ Outside of research, I like reading novels and short stories, watching movies, r
 ## Service
 
 * **Reviewer**
-  * 2026: Designs, Codes and Cryptography
+  * 2026: Designs, Codes and Cryptography, Transactions on Information Theory
 
 * **Subreviewer**
   * 2026: ASIACRYPT, TCC
